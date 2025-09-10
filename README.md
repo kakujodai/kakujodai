@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Learning how to use Git and Github <3
 
 <!--
 **kakujodai/kakujodai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
